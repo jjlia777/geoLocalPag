@@ -1,0 +1,244 @@
+[
+    {
+      "id": 1,
+      "name": "Hospital Santa Marcelina Itaim Paulista",
+      "address": "Avenida Marechal Tito, 6035 - Jardim Jaragua (Itaim Paulista), São Paulo - SP, 08115-100",
+      "latitude": -23.492577558395457,
+      "longitude": -46.38902795310689,
+      "rating": 3.0,
+      "services": 12,
+      "images": [
+        "https://mapaabortolegal.org/wp-content/uploads/2019/03/hospital-santa-marcelina-itaim-1920x1080.jpg",
+        "https://santamarcelina.org/wp-content/uploads/2022/01/tratada.png",
+        "https://portal.coren-sp.gov.br/wp-content/uploads/2018/08/itaimhp_0203201401a.jpg"
+      ],
+      "operation": "Aberto 24 horas",
+      "specializations": ["Emergência", "Clínica Médica", "Pediatria"],
+      "insurance_accepted": ["Plano A", "Plano B", "Particular"]
+    },
+    {
+      "id": 2,
+      "name": "Hospital Municipal de Mogi das Cruzes",
+      "address": "R. Guttermann, 577 - Braz Cubas, Mogi das Cruzes - SP, 08740-320",
+      "latitude": -23.54118598710515,
+      "longitude": -46.221140871163946,
+      "rating": 4.1,
+      "services": 8,
+      "images": [
+        "https://www.mogidascruzes.sp.gov.br/public/site/imagens/6/2016012518272056a66908d868e.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzNG5M7s7axn_qc3b4NQt1FHDCh7fSHNbu-17Oj0peyujsjPtSa9_6sXHfXB6BLQAAZgc&usqp=CAU"
+      ],
+      "operation": "Aberto 24 horas",
+      "specializations": ["Ortopedia", "Ginecologia", "Cardiologia"],
+      "insurance_accepted": ["Plano C", "Plano D", "Particular"]
+    },
+    {
+      "id": 3,
+      "name": "Hospital das Clínicas Luzia de Pinho Melo",
+      "address": "R. Manuel de Oliveira, S/N - Vila Mogilar, Mogi das Cruzes - SP, 08773-130",
+      "latitude": -23.5105260749025,
+      "longitude": -46.194705481001385,
+      "rating": 3.3,
+      "services": 10,
+      "images": [
+        "https://www.mogidascruzes.sp.gov.br/public/site/imagens/6/2017050917582959120345865bf.jpg",
+        "https://s2-g1.glbimg.com/krg4LLup-xVw--60k2GlxK-NpKs=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/y/3/OWb6liTPqp1K9zLQnA6Q/lpm-04.jpg"
+      ],
+      "operation": "Aberto 24 horas",
+      "specializations": ["Neurologia", "Oncologia", "Infectologia"],
+      "insurance_accepted": ["Plano E", "Plano F", "Particular"]
+    },
+    {
+      "id": 4,
+      "name": "Hospital Regional de Ferraz de Vasconcelos",
+      "address": "R. Princesa Isabel, 270 - Vila Correa, Ferraz de Vasconcelos - SP, 08502-200",
+      "latitude": -23.5381741491075,
+      "longitude": -46.35852944110452,
+      "rating": 2.8,
+      "services": 8,
+      "images": [
+        "https://s2-g1.glbimg.com/KJqtCge0F6oK7R9xYcXTA1zudNo=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/0/Y/dhgqudTc6ZQQoaekzdwA/c90fd68e-28fd-4ab0-8ddd-d0a1aefea1cc.jpg",
+        "https://s2-g1.glbimg.com/uFjDzmqTmVCmp8DkmoUL14XjQ9A=/0x0:720x480/984x0/smart/filters:strip_icc()/s.glbimg.com/jo/g1/f/original/2015/04/21/hosp_ferraz.jpg"
+      ],
+      "operation": "Aberto 24 horas",
+      "specializations": ["Urologia", "Dermatologia", "Clínica Geral"],
+      "insurance_accepted": ["Plano G", "Plano H", "Particular"]
+    },
+    {
+      "id": 5,
+      "name": "Hospital Santa Clara",
+      "address": " R. Joaquim Marra, 138 - Anexo 1 - Vila Matilde, São Paulo - SP, 03514-000",
+      "latitude": -23.532936812539962, 
+      "longitude": -46.52747463068847,
+      "rating": 2.4,
+      "services": 10,
+      "images": [
+        "https://lh5.googleusercontent.com/proxy/9BinQFhg8hifmhhoYreHMCmWME514IuEqyyFPmTQQVO13Pa80jd1ies29PQc4fjfOxGzuw0VMbCmbyB8ZcLd-K5c3Y9frr4dSXZvKoQjOTMU7BsG3VWMXzPX58ooAw",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwdjCK0AH_RY7MlfMIfw0ccs6xplx3eWLt9rL8iIbCMDpVbUyy61LNYt6gdj_fCnls4rU&usqp=CAU"
+      ],
+      "operation": "Aberto 24 horas",
+      "specializations": ["Clínica Geral", "Pediatria", "Cirurgia Geral"],
+      "insurance_accepted": ["Plano Z", "Plano X", "Particular"]
+    },
+    {
+      "id": 6,
+      "name": "Hospital Regional do Alto Tietê",
+      "address": "R. Prudente de Morais, 2200 - Vila Nova Amorim, Suzano - SP, 08610-005",
+      "latitude": -23.540566028533416, 
+      "longitude": -46.29275704603271,
+      "rating": 4.6,
+      "services": 11,
+      "images": [
+        "https://s2-g1.glbimg.com/Ep1I4juCStdbADPSkPZIjVhbc_M=/0x0:1280x960/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/K/3/k1g1o2RdyYknS71DqluA/3f8a722f-56eb-405b-bf1b-ef920dda9211.jpg",
+        "https://www.saopaulo.sp.gov.br/wp-content/uploads/2023/12/53377612806_8991b209a1_c.jpg"
+      ],
+      "operation": "Aberto 24 horas",
+      "specializations": ["Clínica Geral", "Pediatria", "Cirurgia Geral"],
+      "insurance_accepted": ["Plano Z", "Plano X", "Particular"]
+    },
+    {
+      "id": 7,
+      "name": "Hospital Santa Maria",
+      "address": "Av. Armando Salles de Oliveira, 240 - Parque Suzano, Suzano - SP, 08673-000",
+      "latitude": -23.534648399326812, 
+      "longitude": -46.31333556137695,
+      "rating": 1.9,
+      "services": 12,
+      "images": [
+        "https://www.postalsaude.com.br/wp-content/uploads/2021/03/hospital-santa-maria-de-suzano_480.jpg",
+        "https://cdn.diariodesuzano.com.br/upload/dn_noticia/2020/11/hospital-santa-maria-27-08-20-rb-5_1.jpg"
+      ],
+      "operation": "Aberto 24 horas",
+      "specializations": ["Clínica Geral", "Pediatria", "Cirurgia Geral"],
+      "insurance_accepted": ["Plano Z", "Plano X", "Particular"]
+    },
+    {
+      "id": 8,
+      "name": "Pronto Atendimento Dr. Guido Guida",
+      "address": "Av. Felício Marinelli, 100 - Jardim Medina, Poá - SP, 08556-200",
+      "latitude": -23.515018995105212, 
+      "longitude": -46.34723195396729,
+      "rating": 3.1,
+      "services": 10,
+      "images": [
+        "https://s2-g1.glbimg.com/r5i_zOBXoDLi0YYULeD_ZFtFJ4o=/0x0:1040x780/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/0/r/zIV8ESTWSPXbZHOey62Q/indice.jpg",
+        "https://cdn.diariodesuzano.com.br/upload/dn_arquivo/2021/03/atendimento-hospital-urgencia-e-emergencia-rodrigo-nagafuti-8.jpg"
+      ],
+      "operation": "Aberto 24 horas",
+      "specializations": ["Clínica Geral", "Pediatria", "Cirurgia Geral"],
+      "insurance_accepted": ["Plano Z", "Plano X", "Particular"]
+    },
+    {
+      "id": 9,
+      "name": "Hospital Santa Marcelina Itaquaquecetuba",
+      "address": "R. Rio Negro, 48 - Jardim Nova Itaqua, Itaquaquecetuba - SP, 08599-280",
+      "latitude": -23.47182104642466, 
+      "longitude": -46.3454386,
+      "rating": 3.3,
+      "services": 9,
+      "images": [
+        "https://santamarcelina.org/wp-content/uploads/2020/02/itaqua.jpg",
+        "https://s2-g1.glbimg.com/R7zVomu29jr9IF8sVtdlYlg4vXs=/0x0:1203x902/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/M/A/chFT7XTsGhYDC6NkmQwg/whatsapp-image-2020-07-06-at-08.15.19-1-.jpeg"
+      ],
+      "operation": "Aberto 24 horas",
+      "specializations": ["Clínica Geral", "Pediatria", "Cirurgia Geral"],
+      "insurance_accepted": ["Plano Z", "Plano X", "Particular"]
+    },
+    {
+      "id": 10,
+      "name": "Hospital e Maternidade Ipiranga Unidade avancada Itaquá",
+      "address": " R. Sebastião Ferreira dos Santos, 121 - Centro, Itaquaquecetuba - SP, 08570-060",
+      "latitude": -23.476075207815946, 
+      "longitude": -46.35292026878661,
+      "rating": 3.2,
+      "services": 10,
+      "images": [
+        "https://www.hospitaisipiranga.com.br/wp-content/uploads/2016/07/galeria4-1.jpg",
+        "https://www.hospitaisipiranga.com.br/wp-content/uploads/2016/07/galeria1-4.jpg"
+      ],
+      "operation": "Todos os dias: 07:00 às 22:00",
+      "specializations": ["Clínica Geral", "Pediatria", "Cirurgia Geral"],
+      "insurance_accepted": ["Plano Z", "Plano X", "Particular"]
+    },
+    {
+      "id": 11,
+      "name": "Hospital e Maternidade Ipiranga Arujá",
+      "address": "Rua Melvin Jones, 100 - Centro, Arujá - SP, 07401-305",
+      "latitude": -23.393147003327343, 
+      "longitude": -46.3223151738278,
+      "rating": 3.0,
+      "services": 12,
+      "images": [
+        "https://www.arujareporter.com.br/wp-content/uploads/2020/11/Foto-Hospital-e-Maternidade-Ipiranga-Aruja.jpeg",
+        "https://www.arujareporter.com.br/wp-content/uploads/2021/06/Maternidade-Dalila-Figueiredo-Barbosa_Easy-Resize.com_.jpg"
+      ],
+      "operation": "Aberto 24 horas",
+      "specializations": ["Clínica Geral", "Pediatria", "Cirurgia Geral"],
+      "insurance_accepted": ["Plano Z", "Plano X", "Particular"]
+    },
+    {
+      "id": 12,
+      "name": "Santa Casa de Misericórdia de Guararema",
+      "address": "Praça Dr. Botelho Egas, 11 - Centro, Guararema - SP, 08900-000",
+      "latitude": -23.414636452375643, 
+      "longitude": -46.03630248804873,
+      "rating": 4.0,
+      "services": 10,
+      "images": [
+        "https://old.guararema.sp.gov.br/wp-content/uploads/2024/05/WhatsApp-Image-2024-05-08-at-16.44.08-1-300x169.jpeg",
+        "https://dmp5lmf6xm59p.cloudfront.net/23833/1_20080814_3737_004_5_herrisson_roseling_868342-1266055.jpg"
+      ],
+      "operation": "Aberto 24 horas",
+      "specializations": ["Clínica Geral", "Pediatria", "Cirurgia Geral"],
+      "insurance_accepted": ["Plano Z", "Plano X", "Particular"]
+    },
+    {
+      "id": 13,
+      "name": "Hospital Municipal Prof. Dr. Waldomiro de Paula",
+      "address": "R. Augusto Carlos Bauman, 1074 - Itaquera, São Paulo - SP, 08210-580",
+      "latitude": -23.530050209491364, 
+      "longitude": -46.44434673862305,
+      "rating": 3.3,
+      "services": 8,
+      "images": [
+        "http://www.prefeitura.sp.gov.br/cidade/secretarias/upload/chamadas/2013_02_19_h_m_waldomiro_de_paula_2_1441834188.jpg",
+        "https://www.myhospitalnow.com/hospitals/storage/hospital_profile/pwpmh1-1338877178_1722940948.jpg"
+      ],
+      "operation": "Aberto 24 horas",
+      "specializations": ["Clínica Geral", "Pediatria", "Cirurgia Geral"],
+      "insurance_accepted": ["Plano Z", "Plano X", "Particular"]
+    },
+    {
+      "id": 14,
+      "name": "AMA Guaianases",
+      "address": "Av. Prof. Osvaldo de Oliveira, 610 - Jardim Helena, São Paulo - SP, 08420-280",
+      "latitude": -23.542375439361305, 
+      "longitude": -46.430650646557616,
+      "rating": 3.4,
+      "services": 10,
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOBR71_HL10ZBgkSDtYvHYp3qauxYgfOTrDootq=s1360-w1360-h1020",
+        "https://lh3.googleusercontent.com/p/AF1QipNdEUESVaxktFrhc7qIpEu9sdjstFBuY5mnrA9m=s1360-w1360-h1020"
+      ],
+      "operation": "Aberto 24 horas",
+      "specializations": ["Clínica Geral", "Pediatria", "Cirurgia Geral"],
+      "insurance_accepted": ["Plano Z", "Plano X", "Particular"]
+    },
+    {
+      "id": 15,
+      "name": "Hospital São Paulo",
+      "address": "Escola Paulista de Medicina da Universidade Federal de São Paulo (EPM/UNIFESP)",
+      "latitude": -23.596843033393615,
+      "longitude": -46.64395647672119,
+      "rating": 3.7,
+      "services": 12,
+      "images": [
+        "https://www.hospitalsaopaulo.org.br/hsp_files/hsp%20-%20fachada.jpg",
+        "https://coronavirus.unifesp.br/images/altas_hu_portal.jpg"
+      ],
+      "operation": "Aberto 24 horas",
+      "specializations": ["Clínica Geral", "Pediatria", "Cirurgia Geral"],
+      "insurance_accepted": ["Plano Z", "Plano X", "Particular"]
+    }
+  ]
+  
